@@ -1,0 +1,12 @@
+github desktop software-
+https://desktop.github.com/download/
+
+git cmd-
+https://git-scm.com/downloads
+
+TurboC++
+
+DevC++
+
+VsCode
+MingW
